@@ -1,0 +1,22 @@
+{
+  "wheel_id": 588,
+  "structure": "umbrella",
+  "slug": "retainingwallscanberra-108",
+  "project": "retaining-walls-canberra-budget-tips-1a0da4a3a97b0fb2cc6e59a",
+  "parent_t1_ref": "retainingwallscanberra-154",
+  "node_role": "feeder",
+  "money_target": "retainingwallscanberra.au",
+  "primary_kw": "retaining walls canberra budget tips",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-canberra-budget-tips-1a0da4a3a97b0fb2cc6e59a/",
+  "tier": "T2",
+  "writeback_nonce": "e0da78f9fda282cf",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-canberra-faq-e7ce83c0555aeb99de72e479597a2f48de/",
+      "anchor": "Retaining Walls Canberra Faq: Clear answers before you quote",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
